@@ -27,4 +27,13 @@ somang-ecm-site/
 
 ## 다음 달 자료 추가
 
+### 자동 스크립트 사용 (권장)
+```bash
+python add_month.py 2026 11 "The Thankful Heart" "God gives us grateful hearts."
+```
+- `pdf/2026/11/` 폴더 자동 생성
+- `data/lessons.json`에 4주차 템플릿 자동 추가
+- 이후 `low.pdf`, `high.pdf`를 해당 폴더에 넣고 JSON에서 세부 내용 수정
+
+### 수동 방법
 새 PDF를 `pdf/2026/11/low.pdf`, `pdf/2026/11/high.pdf`처럼 넣고, `data/lessons.json`에 11월 데이터를 추가하면 됩니다.
