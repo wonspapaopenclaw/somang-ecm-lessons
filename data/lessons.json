@@ -1,0 +1,101 @@
+{
+  "siteTitle": "소망교회 영어아동부 공과",
+  "months": {
+    "2026-10": {
+      "year": 2026,
+      "month": 10,
+      "title": "The Safe Place",
+      "summary": "God is our place of safety. He gives us strength and helps us trust Him.",
+      "weeks": [
+        {
+          "week": 1,
+          "story": "Israel Captures Jericho",
+          "reference": "Joshua 6:1-16, 20",
+          "memoryVerse": "Psalm 46:1",
+          "bottomLine": "God is our refuge and strength.",
+          "virtue": "Trust",
+          "grades": {
+            "low": {
+              "activity": "Jericho craft and activity sheet",
+              "pdf": "pdf/2026/10/low.pdf",
+              "lessonPage": 2,
+              "activityPage": 3
+            },
+            "high": {
+              "activity": "Jericho activity sheet",
+              "pdf": "pdf/2026/10/high.pdf",
+              "lessonPage": 2,
+              "activityPage": 3
+            }
+          }
+        },
+        {
+          "week": 2,
+          "story": "A Gold Statue and a Blazing Furnace",
+          "reference": "Daniel 3",
+          "memoryVerse": "Psalm 46:1",
+          "bottomLine": "God is with me, so I can trust Him.",
+          "virtue": "Trust",
+          "grades": {
+            "low": {
+              "activity": "Blazing furnace activity sheet",
+              "pdf": "pdf/2026/10/low.pdf",
+              "lessonPage": 4,
+              "activityPage": 5
+            },
+            "high": {
+              "activity": "Blazing furnace activity sheet",
+              "pdf": "pdf/2026/10/high.pdf",
+              "lessonPage": 4,
+              "activityPage": 5
+            }
+          }
+        },
+        {
+          "week": 3,
+          "story": "Jesus Calms the Storm",
+          "reference": "Mark 4:36-41",
+          "memoryVerse": "Mark 4:39",
+          "bottomLine": "God is in control, so I can trust Him.",
+          "virtue": "Trust",
+          "grades": {
+            "low": {
+              "activity": "Jesus Calms the Storm activity",
+              "pdf": "pdf/2026/10/low.pdf",
+              "lessonPage": 6,
+              "activityPage": 7
+            },
+            "high": {
+              "activity": "Balloon storm activity",
+              "pdf": "pdf/2026/10/high.pdf",
+              "lessonPage": 6,
+              "activityPage": 7
+            }
+          }
+        },
+        {
+          "week": 4,
+          "story": "Jesus Has Won the Battle",
+          "reference": "John 16:33; Revelation 19:11-16",
+          "memoryVerse": "John 16:33",
+          "bottomLine": "Jesus has won, so I can have peace.",
+          "virtue": "Trust",
+          "grades": {
+            "low": {
+              "activity": "Jesus Has Won the Battle activity",
+              "pdf": "pdf/2026/10/low.pdf",
+              "lessonPage": 8,
+              "activityPage": 9
+            },
+            "high": {
+              "activity": "Draw the Good News",
+              "pdf": "pdf/2026/10/high.pdf",
+              "lessonPage": 8,
+              "activityPage": 9
+            }
+          }
+        }
+      ]
+    }
+  }
+}

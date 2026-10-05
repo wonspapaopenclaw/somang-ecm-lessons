@@ -1,0 +1,302 @@
+:root {
+  color-scheme: light;
+  --ink: #18212f;
+  --muted: #687386;
+  --line: #d8dee8;
+  --paper: #ffffff;
+  --wash: #f4f7fb;
+  --blue: #2367c7;
+  --green: #247458;
+  --gold: #8b6b20;
+  --shadow: 0 12px 30px rgba(20, 32, 48, 0.11);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans KR", "Apple SD Gothic Neo", Arial, sans-serif;
+  background: var(--wash);
+  color: var(--ink);
+  line-height: 1.5;
+}
+
+button,
+a {
+  -webkit-tap-highlight-color: transparent;
+}
+
+.site-header {
+  background: #12345a;
+  color: #fff;
+  padding: 28px 18px 30px;
+}
+
+.header-inner,
+.app-shell,
+.site-footer {
+  width: min(920px, 100%);
+  margin: 0 auto;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: #b7d7ff;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+h3,
+p {
+  overflow-wrap: anywhere;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(1.55rem, 7vw, 2.8rem);
+  line-height: 1.15;
+}
+
+.subtitle {
+  margin: 10px 0 0;
+  color: #d9e8fb;
+  font-size: 1rem;
+}
+
+.app-shell {
+  padding: 18px 14px 30px;
+}
+
+.breadcrumbs {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  white-space: nowrap;
+  overflow-x: auto;
+}
+
+.breadcrumbs button {
+  border: 1px solid var(--line);
+  background: var(--paper);
+  color: var(--ink);
+  border-radius: 999px;
+  padding: 8px 12px;
+  font: inherit;
+}
+
+.breadcrumbs button:disabled {
+  color: #99a2b0;
+  background: #eef2f7;
+}
+
+.panel {
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow);
+  padding: 18px;
+}
+
+.panel + .panel,
+.lesson-card + .lesson-card {
+  margin-top: 14px;
+}
+
+.section-title {
+  margin: 0 0 4px;
+  font-size: 1.35rem;
+  line-height: 1.2;
+}
+
+.section-note {
+  margin: 0 0 16px;
+  color: var(--muted);
+}
+
+.month-grid,
+.week-list,
+.grade-grid,
+.actions {
+  display: grid;
+  gap: 12px;
+}
+
+.month-grid {
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+}
+
+.card-button {
+  width: 100%;
+  min-height: 74px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  color: var(--ink);
+  text-align: left;
+  padding: 15px;
+  font: inherit;
+  cursor: pointer;
+}
+
+.card-button strong {
+  display: block;
+  font-size: 1.06rem;
+  margin-bottom: 4px;
+}
+
+.card-button span {
+  color: var(--muted);
+}
+
+.card-button:focus-visible,
+.action-link:focus-visible,
+.breadcrumbs button:focus-visible {
+  outline: 3px solid rgba(35, 103, 199, 0.32);
+  outline-offset: 2px;
+}
+
+.lesson-card {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: #fff;
+  padding: 16px;
+}
+
+.week-kicker {
+  margin: 0 0 6px;
+  color: var(--gold);
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+
+.lesson-card h3 {
+  margin: 0 0 8px;
+  font-size: 1.18rem;
+}
+
+.lesson-meta {
+  display: grid;
+  gap: 6px;
+  margin: 0 0 14px;
+  color: var(--muted);
+}
+
+.grade-grid {
+  grid-template-columns: 1fr;
+}
+
+.grade-button.low strong {
+  color: var(--blue);
+}
+
+.grade-button.high strong {
+  color: var(--green);
+}
+
+.lesson-detail {
+  display: grid;
+  gap: 14px;
+}
+
+.detail-list {
+  display: grid;
+  gap: 10px;
+  margin: 0;
+}
+
+.detail-list div {
+  border-top: 1px solid var(--line);
+  padding-top: 10px;
+}
+
+.detail-list dt {
+  color: var(--muted);
+  font-size: 0.86rem;
+  font-weight: 700;
+}
+
+.detail-list dd {
+  margin: 2px 0 0;
+  font-weight: 700;
+}
+
+.actions {
+  grid-template-columns: 1fr;
+}
+
+.action-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 52px;
+  border-radius: 8px;
+  padding: 12px 14px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 800;
+}
+
+.action-link.primary {
+  background: var(--blue);
+}
+
+.action-link.secondary {
+  background: #314155;
+}
+
+.action-link.download {
+  background: var(--green);
+}
+
+.helper-text {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.site-footer {
+  padding: 0 14px 24px;
+  color: var(--muted);
+  font-size: 0.86rem;
+}
+
+.loading,
+.error {
+  padding: 18px;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+@media (min-width: 680px) {
+  .site-header {
+    padding-top: 42px;
+    padding-bottom: 44px;
+  }
+
+  .app-shell {
+    padding-top: 24px;
+  }
+
+  .grade-grid,
+  .actions {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .actions.three {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .lesson-card {
+    padding: 18px;
+  }
+}

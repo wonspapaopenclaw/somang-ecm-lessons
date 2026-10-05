@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>소망교회 영어아동부 공과</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <p class="eyebrow">Somang Church</p>
+      <h1>소망교회 영어아동부 공과</h1>
+      <p class="subtitle">English Children's Ministry</p>
+    </div>
+  </header>
+
+  <main class="app-shell">
+    <nav class="breadcrumbs" aria-label="현재 위치">
+      <button type="button" data-view="months">월 선택</button>
+      <span aria-hidden="true">/</span>
+      <button type="button" data-view="weeks" disabled>주차 선택</button>
+      <span aria-hidden="true">/</span>
+      <button type="button" data-view="lesson" disabled>공과 보기</button>
+    </nav>
+
+    <section id="app" aria-live="polite">
+      <div class="loading">자료를 불러오는 중입니다.</div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>PDF 원본은 사이트 폴더의 <strong>pdf/2026/10/</strong> 경로에 보존되어 있습니다.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
