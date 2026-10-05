@@ -143,6 +143,12 @@ function renderLesson() {
           <dt>Bible Reference</dt>
           <dd>${escapeHtml(week.reference)}</dd>
         </div>
+        ${week.videoUrl ? `
+        <div>
+          <dt>Today's Bible Story</dt>
+          <dd><a class="video-link" href="${escapeHtml(week.videoUrl)}" target="_blank" rel="noopener">영상</a></dd>
+        </div>
+        ` : ''}
         <div>
           <dt>Memory Verse</dt>
           <dd>${escapeHtml(week.memoryVerse)}</dd>
