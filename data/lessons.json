@@ -8,14 +8,14 @@
       "summary": "God is our place of safety. He gives us strength and helps us trust Him.",
       "weeks": [
         {
-                  "week": 1,
-                  "story": "Israel Captures Jericho",
-                  "reference": "Joshua 6:1-16, 20",
-                  "memoryVerse": "Psalm 46:1",
-                  "bottomLine": "God is our refuge and strength.",
-                  "virtue": "Trust",
-                  "videoUrl": "https://wonspapa.synology.me/photo/mo/sharing/9lAuHOmL7",
-                  "grades": {
+          "week": 1,
+          "story": "Israel Captures Jericho",
+          "reference": "Joshua 6:1-16, 20",
+          "memoryVerse": "Psalm 46:1",
+          "bottomLine": "God is our refuge and strength.",
+          "virtue": "Trust",
+          "videoUrl": "https://wonspapa.synology.me/photo/mo/sharing/9lAuHOmL7",
+          "grades": {
             "low": {
               "activity": "Jericho craft and activity sheet",
               "pdf": "pdf/2026/10/low.pdf",
@@ -31,14 +31,14 @@
           }
         },
         {
-                  "week": 2,
-                  "story": "A Gold Statue and a Blazing Furnace",
-                  "reference": "Daniel 3:28",
-                  "memoryVerse": "Psalm 46:1",
-                  "bottomLine": "God is with me, so I can trust Him.",
-                  "virtue": "Trust",
-                  "videoUrl": "https://wonspapa.synology.me/photo/mo/sharing/eTwZCceih",
-                  "grades": {
+          "week": 2,
+          "story": "A Gold Statue and a Blazing Furnace",
+          "reference": "Daniel 3:28",
+          "memoryVerse": "Psalm 46:1",
+          "bottomLine": "God is with me, so I can trust Him.",
+          "virtue": "Trust",
+          "videoUrl": "https://wonspapa.synology.me/photo/mo/sharing/eTwZCceih",
+          "grades": {
             "low": {
               "activity": "Blazing furnace activity sheet",
               "pdf": "pdf/2026/10/low.pdf",
@@ -54,14 +54,14 @@
           }
         },
         {
-                  "week": 3,
-                  "story": "Jesus Calms the Storm",
-                  "reference": "Mark 4:36-41",
-                  "memoryVerse": "Mark 4:39",
-                  "bottomLine": "God is in control, so I can trust Him.",
-                  "virtue": "Trust",
-                  "videoUrl": "https://wonspapa.synology.me/photo/mo/sharing/3yi5kbZdo",
-                  "grades": {
+          "week": 3,
+          "story": "Jesus Calms the Storm",
+          "reference": "Mark 4:36-41",
+          "memoryVerse": "Mark 4:39",
+          "bottomLine": "God is in control, so I can trust Him.",
+          "virtue": "Trust",
+          "videoUrl": "https://wonspapa.synology.me/photo/mo/sharing/3yi5kbZdo",
+          "grades": {
             "low": {
               "activity": "Jesus Calms the Storm activity",
               "pdf": "pdf/2026/10/low.pdf",
@@ -77,14 +77,14 @@
           }
         },
         {
-                  "week": 4,
-                  "story": "Jesus Has Won the Battle",
-                  "reference": "John 16:33; Revelation 19:11-16",
-                  "memoryVerse": "John 16:33",
-                  "bottomLine": "Jesus has won, so I can have peace.",
-                  "virtue": "Trust",
-                  "videoUrl": "https://wonspapa.synology.me/photo/mo/sharing/9slX5KkOw",
-                  "grades": {
+          "week": 4,
+          "story": "Jesus Has Won the Battle",
+          "reference": "John 16:33; Revelation 19:11-16",
+          "memoryVerse": "John 16:33",
+          "bottomLine": "Jesus has won, so I can have peace.",
+          "virtue": "Trust",
+          "videoUrl": "https://wonspapa.synology.me/photo/mo/sharing/9slX5KkOw",
+          "grades": {
             "low": {
               "activity": "Jesus Has Won the Battle activity",
               "pdf": "pdf/2026/10/low.pdf",
@@ -100,6 +100,124 @@
           }
         }
       ]
+    },
+    "2026-11": {
+      "year": 2026,
+      "month": 11,
+      "title": "The Great Gratitude Challenge",
+      "summary": "It's easy to focus on what we wish we had. But when we stop and look around, we can see that every good thing in our lives comes from God. When we make gratitude a habit, we can thank Him for His goodness no matter what's going on.",
+      "weeks": [
+        {
+          "week": 1,
+          "story": "Every Good Gift Is From God",
+          "reference": "James 1:17 NIrV",
+          "memoryVerse": "Every good and perfect gift is from God. This kind of gift comes down from the Father who created the heavenly lights. These lights create shadows that move. But the Father does not change like these shadows. (James 1:17 NIrV)",
+          "bottomLine": "I can thank God",
+          "virtue": "Gratitude",
+          "grades": {
+            "low": {
+              "activity": "Gratitude Basket Craft",
+              "pdf": "pdf/2026/11/low.pdf",
+              "lessonPage": 2,
+              "activityPage": 3
+            },
+            "high": {
+              "activity": "Gift Words Matching Game",
+              "pdf": "pdf/2026/11/high.pdf",
+              "lessonPage": 2,
+              "activityPage": 3
+            }
+          }
+        },
+        {
+          "week": 2,
+          "story": "Always Something to Be Grateful for",
+          "reference": "Habakkuk 3:17-18",
+          "memoryVerse": "Every good and perfect gift is from God. This kind of gift comes down from the Father who created the heavenly lights. These lights create shadows that move. But the Father does not change like these shadows. (James 1:17 NIrV)",
+          "bottomLine": "I can thank God no matter what",
+          "virtue": "Gratitude",
+          "grades": {
+            "low": {
+              "activity": "Joy-Filled Paper Craft",
+              "pdf": "pdf/2026/11/low.pdf",
+              "lessonPage": 4,
+              "activityPage": 5
+            },
+            "high": {
+              "activity": "Joy Review Activity",
+              "pdf": "pdf/2026/11/high.pdf",
+              "lessonPage": 4,
+              "activityPage": 5
+            }
+          }
+        },
+        {
+          "week": 3,
+          "story": "Jesus Heals Ten Men",
+          "reference": "Luke 17:16 NIrV",
+          "memoryVerse": "Every good and perfect gift is from God. This kind of gift comes down from the Father who created the heavenly lights. These lights create shadows that move. But the Father does not change like these shadows. (James 1:17 NIrV)",
+          "bottomLine": "Remember to thank God",
+          "virtue": "Gratitude",
+          "grades": {
+            "low": {
+              "activity": "Thankful Lepers Craft",
+              "pdf": "pdf/2026/11/low.pdf",
+              "lessonPage": 6,
+              "activityPage": 7
+            },
+            "high": {
+              "activity": "Healed Men Story Sequence",
+              "pdf": "pdf/2026/11/high.pdf",
+              "lessonPage": 6,
+              "activityPage": 7
+            }
+          }
+        },
+        {
+          "week": 4,
+          "story": "Feast of Booths",
+          "reference": "Nehemiah 8:18",
+          "memoryVerse": "Every good and perfect gift is from God. This kind of gift comes down from the Father who created the heavenly lights. These lights create shadows that move. But the Father does not change like these shadows. (James 1:17 NIrV)",
+          "bottomLine": "Make time to celebrate God",
+          "virtue": "Joy",
+          "grades": {
+            "low": {
+              "activity": "Paper Booth Craft",
+              "pdf": "pdf/2026/11/low.pdf",
+              "lessonPage": 8,
+              "activityPage": 9
+            },
+            "high": {
+              "activity": "Celebration Banner Activity",
+              "pdf": "pdf/2026/11/high.pdf",
+              "lessonPage": 8,
+              "activityPage": 9
+            }
+          }
+        },
+        {
+          "week": 5,
+          "story": "God's Plan to Send Jesus",
+          "reference": "Isaiah 7:14 NIrV",
+          "memoryVerse": "Every good and perfect gift is from God. This kind of gift comes down from the Father who created the heavenly lights. These lights create shadows that move. But the Father does not change like these shadows. (James 1:17 NIrV)",
+          "bottomLine": "We can thank God for giving us hope",
+          "virtue": "Hope",
+          "grades": {
+            "low": {
+              "activity": "Shadow Matching Activity",
+              "pdf": "pdf/2026/11/low.pdf",
+              "lessonPage": 10,
+              "activityPage": 11
+            },
+            "high": {
+              "activity": "God's Plan Timeline Activity",
+              "pdf": "pdf/2026/11/high.pdf",
+              "lessonPage": 10,
+              "activityPage": 11
+            }
           }
         }
-      }
+      ]
+    }
+  }
+}
